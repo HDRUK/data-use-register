@@ -1,12 +1,12 @@
-** Current State Analysis of Data Use Register ** 
+# Current State Analysis of Data Use Register
 
-A desk based review of 54 Data Custodians between 06-May-2021 and 18-May-2021.
+ **A desk based review of 54 Data Custodians between 06-May-2021 and 18-May-2021.**
 
-Data Use Register Definition:
+**Data Use Register Definition:**
 For analysis purposes, a Data Use Register has been defined as a public record of data an organisation has shared with other organisations for the purpose of research, innovation and service evaluation.  
 It typically contains information about the type of data being shared, the purpose, date of approval and name of organisation using (or receiving) the data. 
 
-Inclusions:
+**Inclusions:**
 Data custodians and controllers responsible for the safe collection, storage and sharing of health data for research and innovation. 
 The type of organisations included in this analysis are NHS trusts, charities, research cohorts, biobanks, health data research hubs and national data custodians.  The 54 data custodians researched were: 
 
@@ -20,30 +20,30 @@ Clinical Practice Research Datalink (CPRD), NHS Digitrials - Health Data Researc
 Gut Reaction - Health Data Research Hub, UK Biobank Insight - Health Data Research Hub, National Records of Scotland (NRScotland), UK Brain Bank Network, UKCRC Tissue Directory and Coordination Centre, Dementia Platform UK, NHS England, 
 Our Future Health, NHSX, Imperial College Healthcare NHS Trust, Human Fertilisation and Embryology Authority (HFEA), ICNARC 
 
-Exclusions:
+**Exclusions:**
 Clinical trials registers were excluded, as the scope of this analysis was limited to registers of approved data access requests, rather than the recruitment of participants to clinical trials.
 
-Limitations:
+**Limitations:**
 The 54 data custodians included in this analysis is not an exhaustive list of all health data custodians. This research was time and resource limited, which means there are likely to be data custodians that have been omitted. 
 Although each data custodian's website was extensively reviewed for a data use register, there may well be a public record of approved data use requests that we were unable to locate. 
 
-Scope:
+**Scope:**
 The scope of this analysis covered the availability of the Data Use Register, content,  format and frequency of each Register, along with the ‘searchability’, ‘findability’ and accessibility of the registers, as defined below:
 
-Content: the type of information included in the data use register, validated against 30 common fields that were developed through alignment to the Five Safes Framework 
+**Content:** the type of information included in the data use register, validated against 30 common fields that were developed through alignment to the Five Safes Framework 
 
-Format: the format used to display the data use register according to the following types; directly on data custodian webpage, link to PDF, link to spreadsheet or other
+**Format:** the format used to display the data use register according to the following types; directly on data custodian webpage, link to PDF, link to spreadsheet or other
 
-Frequency: how often the data custodian publishes a new version of the data use register, according to the following time periods; yearly, quarterly, monthly, weekly or daily
+**Frequency:** how often the data custodian publishes a new version of the data use register, according to the following time periods; yearly, quarterly, monthly, weekly or daily
 
-Findability: Is the register easy to locate? A findable or easily locatable register, is defined by having a quick an intuitive user journey from the homepage to the register page
+**Findability:** Is the register easy to locate? A findable or easily locatable register, is defined by having a quick an intuitive user journey from the homepage to the register page
 
-Searchability: Does the register have an in-built search function that allows users to find specific content?
+**Searchability:** Does the register have an in-built search function that allows users to find specific content?
 
-Accessibility: is all of the data within the data use register available for download?
+**Accessibility:** is all of the data within the data use register available for download?
 
 
-Contents:
+**Contents:**
 Data Custodians Dataset 1 - a matrix of the 54 data custodians (Row 1, columns C to BD) and the 41 checks they were validated against (column A). Each check has been given a definition (column B)
 Calculated fields - columns BE to BI contain formulae to calculate the following:
 Total Yes (column BE): COUNTIF($C2:$BD2,"Yes") a formula that counts the total number of data custodians (between columns C and BD) that have a ‘Yes’ and so have met the requirements of the check carried out in column A
