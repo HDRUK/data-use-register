@@ -1,0 +1,682 @@
+﻿web-scraper-order,web-scraper-start-url,Title,Study Code,Lead Researcher,Study type,Institution or Company,Speciality area,Summary
+1616638278-2871,https://bioresource.nihr.ac.uk/studies/?page=1#articles,Anti-interferon autoantibodies in COVID-19: a UKRI CIC study,"Study code
+NBR98","Lead researcher
+Dr Rainer Doffinger","Study type
+Samples and data","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",Coming soon
+1616638274-2869,https://bioresource.nihr.ac.uk/studies/?page=1#articles,"The molecular basis of platelet function phenotype, Understanding the basis of high and low platelet reactivity","Study code
+NBR70 / CBR 211","Lead researcher
+Professor Jonathan Gibbins","Study type
+Participant re-contact","Institution or company
+University of Reading and Cambridge institute of Public Health","Speciality area
+Cardiovascular Disease","Platelets trigger blood clotting following injury, but also cause thrombosis, leading to heart attacks and strokes.  Platelets are targeted using drugs that inhibit their activation and while these prevent thrombosis in many patients, a sizeable proportion gain no benefit.  Presently a ‘one size fits all’ approach is used: patients at risk of thrombosis are given one or more standard anti-platelet medication.  Recent trials indicate that such approach is protective again secondary thrombosis in patients that have already suffered thrombosis, but does not protect patients without a history of thrombosis.  This raises the question: are we treating patients appropriately and giving medication to those most likely to respond positively? To answer this question we need to understand exactly how platelet reactivity varies and why this occurs, and the impact of this on responsiveness to anti-platelet therapies. To address this we have measured in detail the functional characteristics of 700 healthy individuals. We have developed new high-throughput assays that utilise machine learning approaches to allocate donors to one of 8 distinct phenotypic groups. Curiously, the least reactive phenotypic group also contains a large proportion of overweight patients, those with early signs on insulin resistance and elevated blood lipids. This was not expected, and would suggest that a group that is considered higher risk for cardiovascular disease may be less responsive to anti-platelet medication. In the proposed study extension we will recall participants from the highest and lowest responsive groups to (1) validate the profiling procedure, (2) to determine whether phenotype within individuals is stable, (3) test responsiveness to anti-platelet medication and (4) collect protein samples from donors’ platelets to enable detailed proteomic profiling to be performed. This will allow mechanisms of variability to be studied and biomarkers established to perform simplified clinical tests, and the development of precision-medicine approaches to combat thrombosis."
+1616638267-2866,https://bioresource.nihr.ac.uk/studies/?page=1#articles,Affymetrix high density array NIHR BioResource,"Study code
+NBR01","Lead researcher
+Prof. John Bradley","Study type
+Samples and data","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases","The NIHR BioResource Coordinating centre in Cambridge coordinated the sending of ~ 50,000 DNA samples from the previous eight NIHR BioResource centres to be genotyped using Affymetrix High Density array. This generates genetic data that can be used to recall participants to research studies."
+1616638272-2868,https://bioresource.nihr.ac.uk/studies/?page=1#articles,"Validation of spinal muscular atrophy copy-number caller using 13,000 whole-genome sequence data","Study code
+DAA001","Lead researcher
+Adeela Ahmad","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases",To be added
+1616638280-2872,https://bioresource.nihr.ac.uk/studies/?page=1#articles,Affinity profiling of antibody responses against SARS-CoV-2,"Study code
+NBR101","Lead researcher
+Dr Vasilis Kosmoliaptsis","Study type
+Samples and data","Institution or company
+Cambridge University Hospital NHS Foundation Trust`","Speciality area
+Infection","Detection and characterisation of antibodies in biological samples is a key requirement of clinical diagnostics and underpins risk assessment and clinical decision making in infectious diseases. Two fundamental properties of the antibody response to pathogens are its magnitude (antibody concentration) and its strength (affinity of antibody binding to its target protein). However, these properties are difficult to quantify directly using the currently available immunoassays for antibody detection. We have recently developed a novel immunoassay that enables measurement of antibody concentration and of affinity of binding directly in patient serum and under physiological conditions i.e. without the need for immobilisation of target proteins on artificial surfaces that can influence the measured signal. In a small pilot study, we found that patients infected with SARS-CoV-2 (the virus causing COVID-19) develop antibody responses that vary widely in their binding affinity to viral proteins. We now wish to use our immunoassay to profile antibody responses in a large cohort of patients with different COVID-19 disease severity (from asymptomatic to severe disease) and in healthy individuals that undergo vaccination against SARS-CoV-2. We anticipate that this study will increase our understanding of the nature and variability of immune responses against this virus in different individuals and provide important clues to help define the adequacy of immune protection after SARS-CoV-2 infection and after vaccination."
+1616638282-2873,https://bioresource.nihr.ac.uk/studies/?page=1#articles,Effects of APOE genotype on episodic memory in mid life,"Study code
+NBR107","Lead researcher
+Dr Claire Lancaster","Study type
+Participant re-contact","Institution or company
+University Of Sussex","Speciality area
+Dementias and Neurodegeneration",Coming soon
+1616638276-2870,https://bioresource.nihr.ac.uk/studies/?page=1#articles,DAA - EpiCov database,"Study code
+NBR76 / DAA","Lead researcher
+Professor Willem Ouwehand","Study type
+Data only","Institution or company
+University of Cambridge and NIHR BioResource","Speciality area
+Infection","COVID-19 is a novel infectious disease caused by a virus related to those which caused previous outbreaks of SARS and MERs. Most infected people have no or only mild symptoms, but a significant fraction suffer from severe lung and breathing symptoms which need to be treated in hospital. These patients must stay in COVID-19 specific wards to prevent them from infecting other patients. Measurements from some standard blood tests frequently performed in NHS hospitals have been shown to contain information which may be useful to distinguish between patients with COVID-19 and patients with diseases with similar symptoms. Standard tests also seem to contain information that is useful for predicting the course of the disease in COVID-19 infected patients. We have developed an algorithm that attempts to use these standard hospital tests and medical records to: 1)Determine whether a patient is infected with COVID-19 2)Predict the expected course of a COVID-19 patient's disease. These inferences will be useful to triage patients into wards on admission and to identify which patients are likely to need which treatments. We seek access to NIHR BioResource data to understand how measurements from standard hospital tests vary in healthy people and people with rare diseases. This will help us to identify useful signatures in COVID-19 infected individuals."
+1616638270-2867,https://bioresource.nihr.ac.uk/studies/?page=1#articles,Genes and Cognition,"Study code
+NBR30","Lead researcher
+Prof. Patrick Chinnery","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Neurological Disorders, Ageing","The aim of this study is to learn more about brain and cognitive function in the general population. The main person overseeing the study is Professor Patrick Chinnery, a Clinical Neurologist involved in research at the University of Cambridge. It is being carried out by the NIHR BioResource team. All volunteers with the NIHR BioResource will  be invited, that have submitted a sample for analysis and have agreed to be contacted about medical research.   
+
+Participation in this study will involve some online testing called cognitive assessment, which includes tests of memory, understanding, reaction times and problem solving.  All these tests will be carried out online, in your own home, via an App that is downloaded onto a compatible device.  It will take about half an hour to complete the online cognitive assessments, and we would ask you to do this twice over 3 years."
+1616638285-2874,https://bioresource.nihr.ac.uk/studies/?page=1#articles,QwikZyme SARS-CoV-2 Clinical Evaluation,"Study code
+NBR108","Lead researcher
+Professor Molly Stevens","Study type
+Samples and data","Institution or company
+Imperial College London","Speciality area
+Infection","The study involves the collection of saliva samples from Cambridge University students and evaluating the samples for the SARS-CoV-2 virus using a diagnostic test (developed by the Stevens Group, Imperial College London). The samples will be counter-evaluated using standard qPCR evaluation (through standard Cambridge testing procedure) to determine which samples are SARS-CoV-2 positive/negative and thus evaluate preliminary sensitivity and specificity date of the diagnostic test."
+1616638088-2791,https://bioresource.nihr.ac.uk/studies/?page=10#articles,CAVA study – COVID-19 Capillary And Venous blood Antibody testing study,"Study code
+NBR90","Lead researcher
+Professor Nick Wareham","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Infection","To determine whether dried blood spot samples of blood collected either by a finger-prick or by the novel OneDraw device, provides the same COVID-19 antibody test result as a blood sample taken from a vein in the arm in NIHR BioResource participants who are over the age of 18 years old and have previously been tested for COVID-19 antibodies and tested negative or positive. 
+https://www.mrc-epid.cam.ac.uk/research/studies/cava/"
+1616638079-2787,https://bioresource.nihr.ac.uk/studies/?page=10#articles,Evaluation of the immune response to vaccines in patients previously infected with COVID-19 : COV-VAX-IR,"Study code
+NBR100","Lead researcher
+Dr Anita Chandra","Study type
+Participant re-contact","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638077-2786,https://bioresource.nihr.ac.uk/studies/?page=10#articles,COVID-19 IDentification of Epitopes and Antibodies (COVID-IDEA),"Study code
+NBR102","Lead researcher
+Professor Andrew Cope","Study type
+Participant re-contact","Institution or company
+King's College London","Speciality area
+Infection",coming soon
+1616638092-2793,https://bioresource.nihr.ac.uk/studies/?page=10#articles,How does the severe critical illness driven by COVID19 encode its long-term effects?,"Study code
+NBR88","Lead researcher
+Dr Alasdair Jubb","Study type
+Samples and data","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638075-2785,https://bioresource.nihr.ac.uk/studies/?page=10#articles,INSIGHT: a scalable isothermal NASBA-based platform for COVID-19 diagnosis,"Study code
+NBR103","Lead researcher
+Dr Sarah Teichmann","Study type
+Samples and data","Institution or company
+Sanger Institute","Speciality area
+Infection",coming soon
+1616638081-2788,https://bioresource.nihr.ac.uk/studies/?page=10#articles,COVID-19 Immune Phenotyping Programme (CIPP) and COVID National BioResource.,"Study code
+NBR99","Lead researcher
+Professor Ken Smith","Study type
+Participant re-contact","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638083-2789,https://bioresource.nihr.ac.uk/studies/?page=10#articles,Determining and mapping out the medium to long term sequelae of COVID-19 and identify factors that account for different disease outcomes,"Study code
+NBR97","Lead researcher
+Dr Nyarie Sithole","Study type
+Data only","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638090-2792,https://bioresource.nihr.ac.uk/studies/?page=10#articles,Developing array typing of blood cell antigens for clinical care,"Study code
+NBR89","Lead researcher
+Professor Emanuele Di Angelantonio","Study type
+Participant re-contact","Institution or company
+NHSBT (Cambridge)","Speciality area
+Haematology",coming soon
+1616638085-2790,https://bioresource.nihr.ac.uk/studies/?page=10#articles,Neutrophil reprogramming in COVID-19,"Study code
+NBR95","Lead researcher
+Dr James Nathan","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Infection",coming soon
+1616638056-2777,https://bioresource.nihr.ac.uk/studies/?page=11#articles,Testing biotx.ai's AI for wide data in Rare Diseases,"Study code
+DAA035","Lead researcher
+Marco Schmidt","Study type
+Data only","Institution or company
+biotx.ai GmbH","Speciality area
+Genomics and Rare Diseases","biotx.ai has developed a novel genome analysis tool specifically designed for the analysis of high-dimensional, so-called ""wide"", data.  This may allow more insights from genetically complex diseases.  For example. we applied our method before to find genes causing Familial Hypercholesterolemia (FH) datasets with less than 300 cases.  FH is a genetic disorder that leads to high blood blood cholesterol levels, eventually to heart attacks in young age and, from there, to a reduced life expectancy.  FH is caused by not a single gene, but by several genes in a complex interaction.  Our rationale with the NIHR BioResource Data is to re-apply our approach for the most high-dimensional data Rare diseases.  Finally, our aim is to investigate how small datasets can be that we can analyse with our approach.  In the long term we hope to provide better diagnostics for Rare Diseases."
+1616638060-2779,https://bioresource.nihr.ac.uk/studies/?page=11#articles,BRIDGE- EDS (Ehlers-Danlos Syndrome),"Study code
+DAA033","Lead researcher
+Heather Cordell","Study type
+Data only","Institution or company
+Newcastle University","Speciality area
+Genomics and Rare Diseases","Ehlers-Danlos Syndrome (EDS) is a rare Mendelian disorder of the connective tissue which remain largely uncharacterised genetically. We have a large existing collection of cases, covering the whole spectrum of the syndrome. Using target enrichment and next-generation sequencing (NGS), we have already screened these samples for those variants know to be associated with the condition, however, the majority (>70%) remain unclassified. This project proposed that cases without a present molecular diagnosis should be further characterised by exome sequencing. The work stands to redefine the molecular genetic architecture of the condition, potentially identifying n ew susceptibility genes and thereby increasing the proportion of patients to whom a molecular genetic diagnosis can be attributed. Around 180 exomes have been sequenced from previously uncharacterised patients with EDS and the exomes have now undergone full analysis of variants in known and candidate EDS genes by the study team including Aitman, Weerakkody, Vandrovcova and Vandersteen. Some of the original data from whole genome sequencing from separate patients in the EDS cohort have already been published in the flagship BRIDGE publication. We now request permission to carry out a full burden analysis on the exome sequence data in collaboration with Professor Cordell of the University of Newcastle. The new work will be used to estimate the effects of SNPs within known and suspected EDS genes for a further publication."
+1616638053-2776,https://bioresource.nihr.ac.uk/studies/?page=11#articles,Investigating polygenic risk for immune-mediated disease in a sporadic primary immunodeficiency cohort.,"Study code
+DAA036","Lead researcher
+Hannah Huang","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases","We recently carried out a genetic study of antibody deficiency associated primary immune deficiency (AD-PID), that supported previous evidence for a role for common genetic variants in modulating disease risk. Across the whole genome we found that these common variants overlapped with other immune-mediated diseases (IMD) more than we would expect by chance. Building on these observations this project will examine whether polygenic risk scores of IMD are useful in gaining a further understanding of the genetic architecture of PID, as this might shed light on underlying disease pathogenesis."
+1616638062-2780,https://bioresource.nihr.ac.uk/studies/?page=11#articles,CGG trinucleotide short-tandem repeats in unexplained  intellectual disability,"Study code
+DAA031","Lead researcher
+Dale Annear","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases",Coming soon
+1616638064-2781,https://bioresource.nihr.ac.uk/studies/?page=11#articles,Streamlining ethnicity/relatedness code,"Study code
+DAA030","Lead researcher
+Rachel Ong","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases",To evaluate the clinical consequences of carriage of rare variants in aortopathy
+1616638058-2778,https://bioresource.nihr.ac.uk/studies/?page=11#articles,Genetic Links to Anxiety and Depression (GLAD) Study,"Study code
+DAA034","Lead researcher
+Gerome Breen","Study type
+Data only","Institution or company
+King’s College London","Speciality area
+Genomics and Rare Diseases, Mental Health","Anxiety and depression are the most common mental health conditions in the UK; 1 in 3 people will experience symptoms during their lifetime. Access to psychological therapies and drug treatments such as anti-depressants is increasing, but only half of people respond well to existing treatment options. For the thousands who remain unwell, these conditions may worsen over time and can lead to relationship and employment problems, a poor quality of life and even suicide. Research has shown 30-40% of the risk for both depression and anxiety is genetic and 60-70% due to environmental factors. Only by having a large, diverse group of people available for future studies will researchers be able to determine how genetic and environmental triggers interact to cause anxiety and depression and how to develop more effective treatments. The National Institute for Health Research (NIHR) BioResource and King’s College London are recruiting 40,000 people with depression or anxiety to join the online Genetic Links to Anxiety and Depression (GLAD) Study, funded by the NIHR. We are establishing the largest ever database of volunteers willing to take part in pioneering research to explore the genetic links to anxiety and depression. This is a recontactable resource that will inevitably lead to advances in mental health."
+1616638068-2783,https://bioresource.nihr.ac.uk/studies/?page=11#articles,Neurological complications of COVID-19 (NeuroCOVID),"Study code
+NBR109","Lead researcher
+Professor David Menon","Study type
+Samples and data","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection, Neurological Disorders",coming soon
+1616638070-2784,https://bioresource.nihr.ac.uk/studies/?page=11#articles,COVID-19 Immune Phenotyping Programme (CIPP) and COVID National BioResource.,"Study code
+NBR105","Lead researcher
+Professor Christoph Hess","Study type
+Samples and data","Institution or company
+Cambridge Institute for Therapeutic Immunology and Infectious Disease","Speciality area
+Infection",coming soon
+1616638066-2782,https://bioresource.nihr.ac.uk/studies/?page=11#articles,"To access and provide NIHR BioResource Rare Disease Genomes across all eligible disorders within the Genomics England Research Environment as an anonymised dataset alongside the 100,000 Genomes Project main programme data","Study code
+DAA026","Lead researcher
+Mark Caulfield","Study type
+Data only","Institution or company
+Genomics England Ltd","Speciality area
+Genomics and Rare Diseases","We are seeking access to the Human Phenotype Ontology (HPO) terms of most of the 13,027 NIHR BioResource participants with whole genome sequence (WGS) data, which have been enrolled in the rare diseases Pilot I study for the 100,000 Genomes Project. We do not seek access to data from:"
+1616638034-2768,https://bioresource.nihr.ac.uk/studies/?page=12#articles,Assessment of efficacy and adverse events following SARS-CoV-2 cohort of subjects previously infected with COVID-19,"Study code
+NBR112","Lead researcher
+Dr James Thaventhiran","Study type
+Participant re-contact","Institution or company
+MRC","Speciality area
+Infection",Currently it is unclear if existing COVID-19 immunity generated by prior exposure increases the chance of adverse reactions COVID-19 vaccination or a blunting of vaccine efficacy. We are in a unique position to assess this as we have recently collected blood samples from a cohort of subjects that will be imminently offered the vaccine. We will quantitatively measure adaptive immunity prior to vaccination in these subjects and assess the correlation of this with either vaccine adverse effects or vaccine efficacy.
+1616638043-2772,https://bioresource.nihr.ac.uk/studies/?page=12#articles,The role of mitochondrial DNA variants in common disease,"Study code
+DAA043","Lead researcher
+Patrick Chinnery","Study type
+Data only","Institution or company
+University of Cambridge, Department of Clinical Neurosciences","Speciality area
+Genomics and Rare Diseases",Coming soon
+1616638038-2770,https://bioresource.nihr.ac.uk/studies/?page=12#articles,Neurological complications of COVID-19 (NeuroCOVID)_CONTROLS,"Study code
+NBR110","Lead researcher
+Professor David Menon","Study type
+Samples and data","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection, Neurological Disorders","COVID-19 patients frequently suffer neurological problems including stroke, brain inflammation, or abnormal function of peripheral nerves. Other subjects have more subtle problems such as “brain fog”, problems with thinking and memory, or excessive fatigue.  We do not understand how frequently this occurs, which patients are more at risk of such symptoms, and what mechanisms are responsible.  Research in this area will enable us to understand which mechanisms in different patients, and allow us to use rational approaches to design, select and test appropriate therapies."
+1616638049-2775,https://bioresource.nihr.ac.uk/studies/?page=12#articles,Can Covid-19 outcome be revealed by single cell analysis?,"Study code
+DAA039","Lead researcher
+Paul Lyons","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Infection","COVID-19, caused by SARS-CoV-2, has killed over 100,000 people and will last for months or years. Pandemic control will rely on definitive therapies or vaccines built on an increased understanding of SARS-CoV-2 and its immune response. We will address this by deep analysis of patients with mild or severe COVID-19. The NBR Covid-19 cohort has recruited close to 200 COVID-19 patients with a range of severities. Preliminary immune phenotyping shows profound abnormalities in patients with severe disease, indicating the more detailed analysis possible using single-cell sequencing techniques will shed light on what pathways drive transition from the early viral clearance stage to the extreme immune-driven phase causing respiratory failure and mortality."
+1616638036-2769,https://bioresource.nihr.ac.uk/studies/?page=12#articles,Our Future Health (Previously Accelerating Detection of Disease),"Study code
+NBR111","Lead researcher
+Dr Andrew Roddam","Study type
+Participant re-contact","Institution or company
+Our Future Health (charity)","Speciality area
+Public Health and Prevention, Cross-cutting","Today, too many people in the UK and around the world spend many years of their later lives in poor health. The aim of this project is to help future generations live in good health for longer. By bringing together data about millions of people in the UK, this research programme will help researchers better understand human health and enable them to develop new ways to anticipate, prevent, detect and treat diseases earlier than is currently possible.  The project is looking to recruit 5 million people aged over 30 from across the UK to take part by providing a blood or saliva sample, access to information from healthcare records, and data obtained from self-completed questionnaires. By sharing this information, it will help researchers better understand diseases such as dementia, cancer, diabetes, heart disease and stroke. In addition, they will have the option of receiving personal information about their own health. Our Future Health is a charity created to run the programme. It is supported by the UK Government in partnership with the NHS, medical research charities and industry."
+1616638045-2773,https://bioresource.nihr.ac.uk/studies/?page=12#articles,IBD drug therapies and COVID-19,"Study code
+DAA042","Lead researcher
+Nick Kennedy","Study type
+Data only","Institution or company
+Cambridge University Hospitals NHS Foundation Trust","Speciality area
+Gastroenterology, Infection",Coming soon
+1616638047-2774,https://bioresource.nihr.ac.uk/studies/?page=12#articles,EpiCov,"Study code
+DAA040","Lead researcher
+Willem Ouwehand","Study type
+Data only","Institution or company
+Cambridge University Hospitals NHS Foundation Trust","Speciality area
+Infection","COVID-19 is a novel infectious disease caused by a virus related to those which caused previous outbreaks of SARS and MERs. Most infected people have no or only mild symptoms, but a significant fraction suffer from severe lung and breathing symptoms or other severe health problems which need to be treated in hospital. These patients must stay in COVID-19 specific wards to prevent them from infecting other patients. Measurements from some standard blood tests frequently performed in NHS hospitals have been shown to contain information which may be useful to distinguish between patients with COVID-19 and patients with diseases with similar symptoms. Standard tests also seem to contain information that is useful for predicting the course of the disease in COVID-19 infected patients. We have developed an algorithm that attempts to use these standard hospital tests and medical records to:"
+1616638032-2767,https://bioresource.nihr.ac.uk/studies/?page=12#articles,Serological mechanisms underlying cardiotoxicity in COVID-19,"Study code
+NBR113","Lead researcher
+Dr. Sanjay Sinha","Study type
+Samples and data","Institution or company
+University of Cambridge","Speciality area
+Cardiovascular Disease, Infection","With global COVID-19 cases rising and a further projected increase for the months to come therapeutic strategies to combat the disease are urgently needed. Despite the likely approval of a small number of COVID-19 vaccines, the NHS will inevitably need to cope with large numbers of COVID-19 patients over many months, as a broad rollout of national vaccine programs will take a considerable amount of time and uptake and effectiveness are unlikely to reach 100%.  Heart complications occur in up to 30% of COVID-19 critically ill patients and therefore hospitals will continue to treat these patients for which no satisfactory therapy exists. The cause of the heart damage remains poorly understood. One idea is that the inflammation following infection by SARS-CoV2 (the virus causing COVID-19) might be causing the heart damage. Our project will use the serum (fluid part of the blood) collected from COVID-19 patients to see whether this damages heart cells that we generate from stem cells in a tissue culture dish. We think that cytokines (the proteins that cause the inflammatory process) in the serum of these patients might cause heart muscle damage or interfere with their beating. These experiments will identify the specific cytokines or combination of cytokines that might be responsible for the heart injury. We can then identify drugs that can be employed to block the damaging cytokines to ultimately prevent or ameliorate heart damage. Furthermore, the results will be useful to predict which COVID-19 patients will be more likely to develop heart complication and will ultimately result in reduced disability and death from heart problems."
+1616638040-2771,https://bioresource.nihr.ac.uk/studies/?page=12#articles,Gene discovery for cardiomyopathies,"Study code
+DAA050","Lead researcher
+Dhandapany Perundurai","Study type
+Data only","Institution or company
+Institute for Stem Cell Science and Regenerative Medicine (inStem), Bangalore, India","Speciality area
+Genomics and Rare Diseases",Coming soon
+1616638019-2762,https://bioresource.nihr.ac.uk/studies/?page=13#articles,GlyHealth-COVID: A precision medicine test to identify ImmunoFrail patients at high risk of becoming severely ill or dying from COVID-19,"Study code
+NBR92","Lead researcher
+Dr Daniel Spencer","Study type
+Participant re-contact","Institution or company
+Ludger Ltd. Oxford","Speciality area
+Infection",This project is to speed the develpment of a prototype called GlyHealth-COVID.   This is a medical technology we are designing to identify immunofrai individuals who are at high risk of becoming severely ill or dying from COVID-19.
+1616638028-2766,https://bioresource.nihr.ac.uk/studies/?page=13#articles,Immune responses in convalescent Asymptomatic and Symptomatic COVID19 individuals,"Study code
+NBR114","Lead researcher
+Dr Mark Wills","Study type
+Samples and data","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection","A critical gap in knowledge is our understanding of the immune responses in asymptomatic COVID-19 positive individuals.  The University of Cambridge has an extensive asymptomatic testing programme of the student population this approach has also been adopted by Universities of Nottingham and Cardiff. This is a unique opportunity to study the immunology of asymptomatic (ASI) v symptomatic (SSI) individuals by recruiting people via the COVID19 testing pods into this research project. In the first phase of the project we aim to recruit up to 600 volunteers and collect blood and saliva samples from both asymptomatic and symptomatic individuals.  This will take place from January 2021 Until March 2021 when students return to campus; a key period in the pandemic likely to be associated with the third peak of disease and will provide a baseline data set on which to build a longitudinal study.  We will undertake a longitudinal study following a set of these individuals enabling us to examine the kinetics of both antibody immune responses T cell memory and function.  In addition, during the period of the research COVID19 vaccination may become widely available, enabling additional comprehensive analysis of immune responses both pre- and post- vaccination.  This combination of examining both antibody and T cell immunity will provide insight into the role of the immune system in driving pathology and protection."
+1616638021-2763,https://bioresource.nihr.ac.uk/studies/?page=13#articles,NEW UK VARIANT AND EVALUATION OF ANTIBODY ESCAPE,"Study code
+NBR118","Lead researcher
+Ravi Gupta","Study type
+Samples and data","Institution or company
+University of Cambridge","Speciality area
+Infection",coming soon
+1616638025-2765,https://bioresource.nihr.ac.uk/studies/?page=13#articles,Cardiopulmonary exercise testing following COVID-19 infection,"Study code
+NBR115","Lead researcher
+Dr Jonathan Fuld","Study type
+Participant re-contact","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection","We wish to invite individuals to undertake cardiopulmonary exercise testing (CPET) to provide insight into the integrity of the pulmonary-vascular interface and characterise any impairment or abnormal cardiorespiratory function following infection from COVID-19.  A proportion of BioResource patients are being co-recruited into the national PHOSP-COVID study. Combined these allow for rich phenotyping of a cohort of individuals who are recovering from COVID disease.  CPET is a well-validated test that provides an objective assessment of cardiorespiratory response to incremental exercise, which allows clinicians to determine cardiorespiratory fitness and identify reasons for physical impairment. Many patients admitted to hospital with severe acute respiratory syndrome experience significant exercise limitation in the months following hospital discharge. In these patients, CPET has been used to characterise the physiological mechanisms underlying their exercise limitation. It is hypothesised that CPET may provide similar insights into the mechanisms underlying persisting functional limitation following COVID-19 infection, provide diagnostic and prognostic indicators and potentially help guide the development support strategies for those with long-term disability and to assess the efficacy of developed interventions. Each recruited patient will perform a single exercise test on a cycle ergometer following a ramp protocol designed to last around 8-10 minutes in duration. A blood test will be performed at the end of the test (ammonia, lactate,CK)."
+1616638023-2764,https://bioresource.nihr.ac.uk/studies/?page=13#articles,The Multi-modality Imaging & Immunophenotyping of COVID-19 Related Myocardial Injury (MIIC-MI) study,"Study code
+NBR116","Lead researcher
+Dr Jason Tarkin","Study type
+Participant re-contact","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Cardiovascular Disease, Infection","In some patients, COVID-19 can affect the heart. Exactly how the virus does this is not known. We are conducting a study to examine the potential causes. In this study, we are inviting participants with a history of COVID-19 infection who have an abnormal blood test that may indicate a degree of heart damage, or new onset heart failure, to undergo detailed imaging and blood tests. These tests will confirm the nature of any heart damage if present, and lead to a better understanding of the underlying causes. Ultimately, the findings of this study could be used to help guide treatment in other patients with COVID-19 in the future"
+1616638246-2857,https://bioresource.nihr.ac.uk/studies/?page=2#articles,Progressing from genetics to function and clinical translation in Crohn’s disease & ulcerative colitis,"Study code
+NBR11","Lead researcher
+Dr Miles Parkes","Study type
+Samples and data","Institution or company
+University of Cambridge","Speciality area
+Gastroenterology, Genomics and Rare Diseases","The UK IBD Genetics Consortium and IBD BioResource work together closely. This research is part of a reciprocal arrangement between both. GWAS and phenotype data will be used in ongoing genetic analyses, for example to define causal variants and look at low-frequency and rare variants."
+1616638248-2858,https://bioresource.nihr.ac.uk/studies/?page=2#articles,ApoE and gender: Investigation of short-term memory using the Oxford Memory Task app,"Study code
+NBR10","Lead researcher
+Prof. Masoud Husain","Study type
+Participant re-contact","Institution or company
+University of Oxford","Speciality area
+Neurological Disorders, Ageing",We are interested in attention and short-term memory in health and disease. This study looks at variation in the ApoE and gender when participants complete online memory tests.
+1616638263-2865,https://bioresource.nihr.ac.uk/studies/?page=2#articles,Metabolon – Mapping metabolites to their key biochemical pathways,"Study code
+NBR03","Lead researcher
+Prof. John Bradley","Study type
+Samples and data","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases","Metabolomics is the study of small molecules and an integral technology for understanding the function of biological systems. It is the systematic measurement and biological interpretation of the low molecular weight (~50-1,500 Da) biochemicals or “metabolites” within a biological sample. Surveying these small molecules allows for better understanding of biological mechanisms, thereby creating a more complete picture of the phenotype (the observable characteristics of a living system)."
+1616638261-2864,https://bioresource.nihr.ac.uk/studies/?page=2#articles,Investigating changes in memory and attention associated with ageing,"Study code
+NBR05 / CBR152","Lead researcher
+Prof. Anne Nobre","Study type
+Participant re-contact","Institution or company
+University of Oxford","Speciality area
+Neurological Disorders, Ageing","The purpose of our research is to understand how the Apolipoprotein E gene (APOE) affects cognitive processes, such as memory and attention, specifically across ageing. Two groups of participants (one age range 18-35 the other age range 60-80 years) will perform simple computer-based tasks of short-term memory. More specifically, participants will be invited in to a designated location where they will be presented with a touch screen computer game and asked to remember the location and identity of objects. Following a delay, participants first have to identify the item they held in memory and then drag it to its remembered location.  The whole task will last about 2 hours."
+1616638253-2860,https://bioresource.nihr.ac.uk/studies/?page=2#articles,Defining the mechanisms and control of human regulatory T cell function in autoimmunity,"Study code
+NBR08","Lead researcher
+Prof. Graham Lord","Study type
+Participant re-contact","Institution or company
+King’s College London","Speciality area
+Infection, Metabolic and Endocrine Disorders, Gastroenterology","We still lack a detailed understanding of how the immune system is regulated in the healthy human, and how dysregulation contributes to disease. Specifically, we need to understand how regulatory T cells (Tregs) control other immune pathways, how and where Tregs act and interact with other immune and inflammatory components, and how this understanding might be harnessed to treat autoimmune disease. This research will help move us forward in this field."
+1616638255-2861,https://bioresource.nihr.ac.uk/studies/?page=2#articles,Validation of genome-wide and targeted genotyping arrays to enable the ascertainment of blood groups of man to a clinical standard,"Study code
+NBR07","Lead researcher
+Prof. Willem Ouwehand","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Haematology",Over 1000 DNA variants have been identified underlying the clinically relevant blood groups of people. The aim of the project is to find out whether blood groups can be determined equally well at the level of the DNA (genotyping) as by agglutination of red blood cells (phenotyping). This study is important to improve the level of matching for rare blood groups in patients who require frequent and sometimes lifelong transfusion support.
+1616638257-2862,https://bioresource.nihr.ac.uk/studies/?page=2#articles,Inception - Individuals under investigation for possible IBD or newly diagnosed with IBD,"Study code
+NBR06 / CBR147","Lead researcher
+Dr Miles Parkes","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Gastroenterology","Ulcerative Colitis (UC) and Crohn’s Disease (CD) are chronic inflammatory bowel conditions, collectively known as Inflammatory Bowel Disease (IBD), the cause of which is unknown. Proposed hypotheses encompass an interaction between genetic predisposition and environmental factors. Previous studies have demonstrated a higher incidence (number of new cases) and more aggressive disease course in ethnic groups. Studying changing incidence of disease in ethnic populations who have migrated from abroad offers a unique opportunity to examine dietary and environmental factors that may contribute to disease presentation. We propose a multi-centre prospective cohort study to enrol all new cases of IBD and study the contribution of ethnic diversity. The study will be designed to examine the role of diet and the gut bacteria and define variables that may predict response to therapy by integrating clinical data with stool sample collections to examine the gut microbiota (the population of gut bacteria living in our intestine). The newly diagnosed inception cohort will be followed up for specific outcomes such as adverse drug events, surgery, pregnancy, and disease complications including cancer. The study will generate a collaborative network of UK-based centres to collect data on the epidemiology and outcomes of IBD via a standardised, validated web based database. [Text from ethics submission]"
+1616638250-2859,https://bioresource.nihr.ac.uk/studies/?page=2#articles,Determining an important functional role for integrins in regulating immune responses in IBD,"Study code
+NBR09 / CBR172","Lead researcher
+Prof. Mark Travis","Study type
+Participant re-contact","Institution or company
+University of Manchester","Speciality area
+Gastroenterology","We are interested in how immune cells work, and how differences in immune-related genes may predispose to inflammatory bowel disease (IBD). We are looking at the genes, molecules and cells that keep our intestines healthy, and how these go wrong to cause IBD. This work aims to identify new targets for therapy, and provide information on potential risk of developing IBD."
+1616638259-2863,https://bioresource.nihr.ac.uk/studies/?page=2#articles,Cholesterol efflux pathways in monocytes and the genetic risk of atherosclerosis,"Study code
+NBR04","Lead researcher
+Prof. Martin Bennett","Study type
+Samples and data","Institution or company
+University of Cambridge","Speciality area
+Cardiovascular Disease, Genomics and Rare Diseases",To be added
+1616638233-2852,https://bioresource.nihr.ac.uk/studies/?page=3#articles,Impute - 50K imputation at Sanger,"Study code
+NBR17","Lead researcher
+Dr Jyoti Khadake","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Cross-cutting, Genomics and Rare Diseases",.
+1616638240-2855,https://bioresource.nihr.ac.uk/studies/?page=3#articles,Genome-wide association studies of circulating blood metabolites,"Study code
+NBR13","Lead researcher
+Prof. Tim Spector","Study type
+Data only","Institution or company
+King's College London","Speciality area
+Genomics and Rare Diseases",Metabolites are small molecules that vary widely across individuals as a result of genetic and environmental exposures. They are the bridge between our genes and diseases. We want to identify genetic markers of human metabolites to improve our understanding of diseases and potentially new drug development
+1616638235-2853,https://bioresource.nihr.ac.uk/studies/?page=3#articles,The PREdiCCt (The PRognostic effect of Environmental factors in Crohn’s and Colitis) Study,"Study code
+NBR16","Lead researcher
+Dr Charlie Lees","Study type
+Participant re-contact","Institution or company
+University of Edinburgh","Speciality area
+Gastroenterology","PREdiCCt is looking to increase understanding of how environmental factors, diet, and the gut micro-organisms influence Inflammatory Bowel Disease flare and recovery.​ The study is a multi-centre, prospective, cohort study that aims to recruit 3100 patients (1550 Ulcerative Colitis / 1550 Crohn’s Disease) with IBD who are in clinical remission. Baseline variables collected at study entry will be compared with those collected at disease flare (outcome)."
+1616638225-2848,https://bioresource.nihr.ac.uk/studies/?page=3#articles,CMV infection in inflammatory bowel disease,"Study code
+NBR22","Lead researcher
+Prof. Holm Uhlig","Study type
+Samples and data","Institution or company
+University of Oxford","Speciality area
+Gastroenterology, Infection","Cytomegalovirus (CMV) infection has a massive – but subclinical - impact on host immunity, Despite its long association with the gut, however, little is known about its impact in the steady state and interaction with genetic risk factors."
+1616638238-2854,https://bioresource.nihr.ac.uk/studies/?page=3#articles,Discovery of metabolite biomarkers in rare diseases,"Study code
+NBR14","Lead researcher
+Dr Leonardo Bottolo","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases","Metabolites are the end-products of gene expression, which are closely related to protein and enzymatic reactions. With the advent of metabolomics as a powerful tool for both biomarker discovery and understanding functional consequences, the identification of specific differences between complex metabolite profiles is becoming an important step in the data analysis pipeline. So far metabonomic profiles have provided potential biomarkers for screening complex disorders such as cardiovascular diseases, kidney disorders, type 2 diabetes, etc. and they enhance accuracy of diagnosis of hyperlipidemia and atherosclerosis. However little is known about the discriminatory power of metabonomic profiles for differential diagnosis of several rare diseases."
+1616638231-2851,https://bioresource.nihr.ac.uk/studies/?page=3#articles,Genetics and metagenome studies in orofacial granulomatosis,"Study code
+NBR18","Lead researcher
+Dr Natalie Prescott","Study type
+Participant re-contact","Institution or company
+Kings College London","Speciality area
+Genomics and Rare Diseases, Gastroenterology","In some individuals, Crohn’s disease affects the mouth causing cracked swollen lips and painful oral ulceration.  This pattern of CD carries a disproportionate psychological burden as patients feel their disease is visible to others with a major negative impact on their self-esteem and ability to form relationships."
+1616638227-2849,https://bioresource.nihr.ac.uk/studies/?page=3#articles,Mechanism linking NOD2 with MHC class I antigen presentation,"Study code
+NBR21","Lead researcher
+Prof. Alison Simmons","Study type
+Participant re-contact","Institution or company
+University of Oxford","Speciality area
+Gastroenterology","This study involves delineating how the strongest genetic risk factor for Crohn’s disease affects specific immune responses. We have found that this factor, NOD2, normally influences the nature of T cell responses when it detects microbes. We have mapped the molecules involved in this sensing process and wish to examine if Crohn’s patients with genetic risk factors in NOD2 show defective T cell responses as a result. Defining such pathways generates novel platforms to repair any defects identified therapeutically."
+1616638229-2850,https://bioresource.nihr.ac.uk/studies/?page=3#articles,PANTS - Genetics of immunogenicity to anti-TNF drugs,"Study code
+NBR20","Lead researcher
+Dr Tariq Ahmed","Study type
+Samples and data","Institution or company
+University of Exeter","Speciality area
+Gastroenterology, Genomics and Rare Diseases",To investigate the genetic susceptibility to anti-drug antibody formation. Specifically we aim to replicate our initial findings from the prospective PANTS cohort.
+1616638242-2856,https://bioresource.nihr.ac.uk/studies/?page=3#articles,"GEM – Genetic, environmental, microbial project","Study code
+NBR12","Lead researcher
+Dr Miles Parkes","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases, Gastroenterology",The goal of the GEM study is to identify environmental and microbial risk factors for Crohn’s disease by prospectively recruiting and sampling from a large cohort of individuals who are at high risk of developing Crohn’s disease by virtue of having an affected first degree relative. This reduces the confounding effect that gut inflammation has on the gut microbiota – which has always fundamentally undermined attempts to define microbial triggers for IBD.
+1616638214-2844,https://bioresource.nihr.ac.uk/studies/?page=4#articles,Molecular investigation of genetic factors in cardiovascular and immune-related traits and diseases using a bioresource of healthy volunteers (GENBIO),"Study code
+NBR26","Lead researcher
+Dr Dirk Paul","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Cardiovascular Disease","Our study aims to compare two groups of healthy volunteers – those who carry functional variants and those who do not. We will measure a range of molecular and cellular markers, as well as physiological parameters.  This will enable us to determine the distinct molecular and cellular mechanisms underlying functional variants identified for cardiovascular and immune-related diseases. Results from these studies will improve our understanding of the mechanisms of disease, potentially leading to better diagnosis, tailored prevention and treatment."
+1616638220-2847,https://bioresource.nihr.ac.uk/studies/?page=4#articles,The genetic correlates of cognitive flexibility and their links to ideological thinking,"Study code
+NBR23","Lead researcher
+Prof. Trevor Robbins","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Neurological Disorders","We have already recruited 1200 participants online but would like to increase this. We are now seeking to extend our established online studies with a genetic sample, to allow us to investigate the genetic correlates of the psychological phenomena of interest. Participants will be asked to complete an online survey from their personal computer or laptop and we will use data from their sample previously donated to the BioResource."
+1616638216-2845,https://bioresource.nihr.ac.uk/studies/?page=4#articles,Generation of pluripotent stem cell lines to test novel compounds for the treatment of disease,"Study code
+NBR25","Lead researcher
+Dr David Bunton","Study type
+Participant re-contact","Institution or company
+REPROCELL Europe Ltd","Speciality area
+Ophthalmology","iPSCs are somatic cells (non-reproductive cells) that are manually reprogrammed in the laboratory to become pluripotent, that is they have an ability to become different cell types."
+1616638210-2842,https://bioresource.nihr.ac.uk/studies/?page=4#articles,Assessing whole genome sequencing as a diagnostic test for mitochondrial disease.,"Study code
+NBR29","Lead researcher
+Prof. Patrick Chinnery","Study type
+Samples and data","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases","Mitochondria are organelles which produce energy in nearly all the cells in the human body. They contain their own DNA, mtDNA, which is distinct from the DNA in the nucleus. Mutations in this mtDNA can cause mitochondrial disease, where the cells are unable to make enough energy, which often presents with variable neuromuscular phenotypes."
+1616638207-2841,https://bioresource.nihr.ac.uk/studies/?page=4#articles,Genotype and Phenotype in Inherited Neurodegenerative Diseases,"Study code
+NBR32","Lead researcher
+Prof. Patrick Chinnery","Study type
+Samples and data","Institution or company
+University of Cambridge","Speciality area
+Neurological Disorders","The aim of this project is to measure the levels of various metabolites in the serum of mitochondrial disease patients, and compare these to the levels found in ‘healthy volunteers’ in the general population."
+1616638218-2846,https://bioresource.nihr.ac.uk/studies/?page=4#articles,Investigation of genetic susceptibility markers to arthritic conditions and how they contribute to disease,"Study code
+NBR24","Lead researcher
+Dr Annie Yarwood","Study type
+Participant re-contact","Institution or company
+University of Manchester","Speciality area
+Musculoskeletal Disorders","Over the last 10 years significant progress has been made identifying variants in DNA which predispose people to arthritic diseases including rheumatoid arthritis, juvenile idiopathic arthritis and psoriatic arthritis.  The challenge now is to determine how these genetic changes contribute to disease, alter treatment response or determine disease outcome. This study will investigate how possessing an ‘at risk’ genotype could influence disease in terms of DNA structure, gene regulation, protein expression and cellular function in healthy volunteers. This will provide a better understanding of the important molecules, pathways and cells which are altered by genetic susceptibility variants and how they may result in disease. This study has the potential to identify novel targets for therapy which could lead to drug repositioning or novel therapies being developed."
+1616638212-2843,https://bioresource.nihr.ac.uk/studies/?page=4#articles,Crohn’s Anal Fistula Quality of Life Scale,"Study code
+NBR28","Lead researcher
+Dr Alisa Hart","Study type
+Participant re-contact","Institution or company
+London NW Healthcare NHS Trust","Speciality area
+Gastroenterology","About a third of all people with Crohn’s disease (CD) develop perianal fistulas. These are often difficult to treat and can have a major impact on quality of life, affecting physical and emotional wellbeing, social and professional life, educational activities and intimate relationships."
+1616638203-2839,https://bioresource.nihr.ac.uk/studies/?page=4#articles,IBD-Boost Survey: fatigue pain and urgency in IBD,"Study code
+NBR34","Lead researcher
+Prof. Christine Norton","Study type
+Participant re-contact","Institution or company
+King's College London","Speciality area
+Gastroenterology","In remission, many people with IBD live with fatigue, chronic abdominal pain, and bowel urgency/incontinence. Most previous IBD research has focused on controlling inflammation. However, many people report continuing IBD-related fatigue (41%), abdominal pain (62%) and difficulty with continence (up to 75%) even when IBD is in remission. These symptoms limit peoples’ quality of life and ability to work and socialise. Patients feel these symptoms are not taken seriously by health professionals and report that little help is currently given. The James Lind Alliance IBD research priority-setting consensus put fatigue, pain, and continence in the top 10 issues that IBD patients and clinicians want to be addressed by research."
+1616638205-2840,https://bioresource.nihr.ac.uk/studies/?page=4#articles,NOVID – Role of DNA non-coding variants in von Willebrand disease,"Study code
+NBR33","Lead researcher
+Prof. Mike Laffan","Study type
+Samples and data","Institution or company
+Imperial College London","Speciality area
+Genomics and Rare Diseases, Haematology","Von Willebrand factor (VWF) is a large protein that helps the blood to clot. Most VWF in the body is produced in the cells that line blood vessels, called endothelial cells, and it is then released into the blood. Additionally, a much smaller amount of VWF is found in tiny blood cells, called platelets, that also help to form a clot in case of injury."
+1616638192-2835,https://bioresource.nihr.ac.uk/studies/?page=5#articles,ROVIM – Role of blood group VEL in metabolism.,"Study code
+NBR39","Lead researcher
+Dr Mattia Frontini","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Metabolic and Endocrine Disorders, Haematology","The antigen determining the blood group Vel is the Smim1 protein. The role of the Smim1 protein is elusive, but the genetic analysis of UK Biobank participants determined that this gene is associated with several red blood cell parameters and also, unexpectedly, with weight, body mass and fat accumulation that are typically observed when there is an energy imbalance.  The absence of the high frequency blood group Vel is determined by a 17 base pairs deletion in both copies of the SMIM1 gene which is present in 1 in 5000 English blood donors. With this project we would like to determine the causes of the energy imbalance observed in individuals lacking the Vel blood group."
+1616638186-2832,https://bioresource.nihr.ac.uk/studies/?page=5#articles,Determining the role of HLA variation in inflammatory bowel disease,"Study code
+NBR42","Lead researcher
+Prof. Jack Satsangi","Study type
+Participant re-contact","Institution or company
+University of Oxford","Speciality area
+Gastroenterology","Inflammatory Bowel Diseases (IBD) are inflammatory disorders that affect the gastrointestinal tract, of which the main types are Crohn’s disease (CD) and ulcerative colitis (UC). There is no cure for these often life-changing severe diseases, but a number of medications have been introduced that target the body's immune response in an attempt to control symptoms. Biologics, as they are known, are an important addition to these medications. The most widely used biologics target an immune modulator known as Tumour Necrosis Factor, or TNF, which contributes to the characteristic inflammation seen in CD and UC patients. While highly effective therapies in some individuals, the use of biologics is limited by a percentage of patients (10-40%) who do not respond at all to these therapies (primary non-response) and by loss of response (in 24-46% of patients) to treatment in the first year. Secondary loss of response is commonly due to a patient's development of antibodies against the medication, rendering it less effective over time."
+1616638199-2838,https://bioresource.nihr.ac.uk/studies/?page=5#articles,Pulmonary Arterial Hypertension Associated ATP13A3 Mutations,"Study code
+NBR35","Lead researcher
+Prof. Nick Morrell","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Cardiovascular Disease, Genomics and Rare Diseases","Pulmonary arterial hypertension is a rare disease leading to sufferers becoming increasingly breathless. This is caused by the walls of the blood vessels in the lungs becoming thicker and narrower. This reduces the ability of these vessels to cope with the normal blood flow and puts more strain on the right side of the heart. If the patients are not treated, the right heart fails by 2-3 years after the disease has been identified. The drugs that are available can roughly double this survival period, but the only complete cure currently available is a heart-lung transplant."
+1616638195-2836,https://bioresource.nihr.ac.uk/studies/?page=5#articles,Understanding contributions of T cell determining factors in the pathogenesis of IBD,"Study code
+NBR38","Lead researcher
+Prof. Adrian Hayday","Study type
+Samples and data","Institution or company
+King's College London","Speciality area
+Gastroenterology","The human intestine is vital in maintaining a person’s nutritional status. In order to do this, the bowel is lined by a specialised layer of absorptive cells called the epithelium which forms a barrier a single cell thick between the gut contents and the body. A breakdown in the integrity of this layer is thought to be one of the primary insults which leads to the development of inflammatory bowel disease (IBD)."
+1616638190-2834,https://bioresource.nihr.ac.uk/studies/?page=5#articles,IBD Risk Alleles – Effect of genetic variants associated with risk for inflammatory disease on immune cell phenotype and function.,"Study code
+NBR40","Lead researcher
+Dr Carl Anderson","Study type
+Participant re-contact","Institution or company
+Wellcome Sanger Institute","Speciality area
+Gastroenterology",".In the UK, at least 300,000 people have inflammatory bowel disease (IBD; which includes Crohn's disease and ulcerative colitis). IBD leads to chronic inflammation in parts of the digestive system and it is thought to occur due to an abnormal response to harmless bacteria in the gut. This response is believed to be a consequence of a complex interaction between environmental and genetic factors. Our group and others have used genetic association studies (GWAS) to identify over 240 regions of the genome that increase susceptibility to IBD. Some of these regions are within well-known genes that interfere with the immunological response. However, most of them have no defined mechanism of action. Understanding how these variants contribute to someone developing IBD is important for our biological understanding of disease mechanisms and the development of novel therapies. In this project we aim to investigate the mechanisms by which four genetic variants increase the risk of developing IBD. These genetic variants are likely to play a role in the production and/or response to inflammatory mediators important in IBD. We will analyse changes in the gene expression and function of immune cells comparing individuals carrying the risk variants with those carrying the non-risk variants. Our studies aim to increase our understanding of how genetic variants affect the individual’s immune function and might contribute to their increased risk for developing IBD."
+1616638184-2831,https://bioresource.nihr.ac.uk/studies/?page=5#articles,Functional analysis of primary immunodeficiency-associated gene variants,"Study code
+NBR43","Lead researcher
+Prof. Ken Smith","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases",.
+1616638197-2837,https://bioresource.nihr.ac.uk/studies/?page=5#articles,AdipO2 – Body fat distribution and diabetes risk: the role of adipose tissue oxygen metabolism,"Study code
+NBR37","Lead researcher
+Dr Konstantinos Manolopoulos","Study type
+Samples and data","Institution or company
+University of Birmingham","Speciality area
+Metabolic and Endocrine Disorders","Fat tissue plays an important role in human metabolism as it stores energy derived from meals. However, fat accumulation as seen in obesity is associated with cardiovascular disease and the development of diabetes, and is also linked to inflammation. In this research project, we will study the relationship between fat tissue oxygen metabolism  (an  important  metabolic  factor)  and  inflammation  in  lean  and  obese  subjects.  We  wish  to  explore the mechanisms  by which oxygen  affects  abdominal and  thigh  fat  function  including  nutrient  handling  and  the production of inflammatory factors, since a deeper understanding of these mechanisms could pave the way for future treatments of obesity complications. We will conduct an in vivo physiology study in healthy lean and obese postmenopausal female volunteers that will allow us to study fat tissue function under near-normal conditions. The in vivo study involves taking blood samples from veins specifically draining fat tissue before and after a standardised high-fat meal, alongside measurements of fat tissue blood flow. These measurements are supplemented with extensive lab-based characterisation of fat tissue from biopsies taken during the in vivo study."
+1616638188-2833,https://bioresource.nihr.ac.uk/studies/?page=5#articles,"ROTEC – Inherited changes leading to altered levels of a blood protein, tissue factor pathway inhibitor and risk of cardiovascular disease","Study code
+NBR41","Lead researcher
+Dr William Astle","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Haematology, Cardiovascular Disease","Tissue factor pathway inhibitor (TFPI) is a protein released into the blood stream by small blood cells called platelets and the cells lining blood vessels. TFPI provides a brake on the body’s clotting system such that if levels are increased this reduces the tendency of a person to form a blood clot. A recent large study in healthy volunteers showed that a common change in the DNA code (called a variant) affects the levels of TFPI. In our study, ROTEC, we will invite 20 participants from the NIHR BioResource to have a blood sample taken, which we will use to work out why these different TFPI levels occur in persons with and without the variant. We anticipate this research will help to identify potential new reasons for why some people are more prone to blood clots and cardiovascular diseases than others and help researchers find novel treatments for reducing the risk of conditions such as heart attacks and strokes."
+1616638182-2830,https://bioresource.nihr.ac.uk/studies/?page=5#articles,The effect of SSRIs on threat of shock potentiated neural circuitry,"Study code
+NBR45","Lead researcher
+Dr Oliver Robinson","Study type
+Participant re-contact","Institution or company
+University College London","Speciality area
+Mental Health",.
+1616638160-2821,https://bioresource.nihr.ac.uk/studies/?page=6#articles,Internal study code for generation of genetic data - Thermofisher Affymetrix UK Biobank V2.1,"Study code
+NBR31","Lead researcher
+Jyoti Khadake","Study type
+Data only","Institution or company
+NIHR BioResource","Speciality area
+Genomics and Rare Diseases",Internal data only
+1616638173-2827,https://bioresource.nihr.ac.uk/studies/?page=6#articles,GENBIO-SWAP70 – Identifying the cell type-specific roles of the coronary artery disease risk gene SWAP70,"Study code
+NBR50","Lead researcher
+Dr Dirk Paul","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Cardiovascular Disease","This is a research study looking at cardiovascular disease (e.g. heart attacks, stroke) and immune-related diseases (e.g. type I diabetes). The purpose of this study is to identify and characterise the complex biological pathways that drive the development of these diseases."
+1616638171-2826,https://bioresource.nihr.ac.uk/studies/?page=6#articles,LATTICE – Safety & efficacy of BMS-986165 in participants with moderate-to-severe Crohn’s Disease,"Study code
+NBR52","Lead researcher
+Dr Tim Raine","Study type
+Participant re-contact","Institution or company
+University of Cambridge/BMS","Speciality area
+Gastroenterology","This is an investigational study, also known as LATTICE, of the experimental medication BMS-986165 in patients with moderate to severe Crohn's Disease, a chronic bowel disease that causes severe inflammation of the digestive tract. MS-986165 is an investigational oral, selective tyrosine kinase 2 (TYK2) inhibitor, which has been studied in a phase 2 trial of patients with moderate to severe plaque psoriasis (https://news.bms.com/pressrelease/bristolmyers/bristol-myers-squibbs-novel-oral-selective-tyk2-inhibitor-delivered-signi). The study is a phase 2 randomized, double-blind, placebo-controlled study of the safety and efficacy of BMS986165."
+1616638163-2822,https://bioresource.nihr.ac.uk/studies/?page=6#articles,The effects of the microbiome on the B cell receptor repertoire in patients with Ulcerative Colitis,"Study code
+NBR62","Lead researcher
+Professor Ken Smith","Study type
+Participant re-contact","Institution or company
+University of Cambridge","Speciality area
+Gastroenterology",The effects of the microbiome on the B cell receptor repertoire in patients with Ulcerative Colitis.  Part of the IBD BioResource
+1616638167-2824,https://bioresource.nihr.ac.uk/studies/?page=6#articles,Smoking effects on NF-kappa B activation in intestinal epithelial and immune cells from IBD patients,"Study code
+NBR57","Lead researcher
+Dr Chris Probert","Study type
+Participant re-contact","Institution or company
+University of Liverpool","Speciality area
+Gastroenterology",Smoking effects on NF-kappa B activation in intestinal epithelial and immune cells from IBD patients.  Part of IBD BioResource
+1616638169-2825,https://bioresource.nihr.ac.uk/studies/?page=6#articles,SPIT Study - Diagnosing Cohn's disease based on salivary epigenetics,"Study code
+NBR56","Lead researcher
+Prof. Laurence Lovat","Study type
+Participant re-contact","Institution or company
+University College London","Speciality area
+Gastroenterology, Genomics and Rare Diseases",SPIT Study - Diagnosing Cohn's disease based on salivary epigenetics.  Part of IBD BioResource
+1616638178-2829,https://bioresource.nihr.ac.uk/studies/?page=6#articles,MODULATE – Management of diarrhoea in ulcerative colitis,"Study code
+NBR47","Lead researcher
+Prof. Alexander Ford","Study type
+Participant re-contact","Institution or company
+University of Leeds","Speciality area
+Gastroenterology","The MODULATE study aims to find out if other treatments are effective in relieving diarrhoea symptoms in people with stable UC. This is the first study to explore this, and we hope that the results will lead to more effective treatments for this group of patients."
+1616638165-2823,https://bioresource.nihr.ac.uk/studies/?page=6#articles,METRIC-EF: Magnetic Resonance Enterography and Small Bowel Ultrasound as predictors of disabling disease in newly-diagnosed Crohn’s disease,"Study code
+NBR58","Lead researcher
+Professor Stuart Taylor","Study type
+Participant re-contact","Institution or company
+University College London","Speciality area
+Gastroenterology",METRIC-EF: Magnetic Resonance Enterography and Small Bowel Ultrasound as predictors of disabling disease in newly-diagnosed Crohn’s disease.  Part of IBD BioResource
+1616638175-2828,https://bioresource.nihr.ac.uk/studies/?page=6#articles,A longitudinal study of childlessness in women with Inflammatory bowel disease,"Study code
+NBR48","Lead researcher
+Dr Christian Selinger","Study type
+Participant re-contact","Institution or company
+St. James University Hospitals, Leeds","Speciality area
+Gastroenterology",.
+1616638152-2818,https://bioresource.nihr.ac.uk/studies/?page=7#articles,BRIDGE genomic analysis of neuropathic pain disorders,"Study code
+DAA004","Lead researcher
+Georgios Baskozos","Study type
+Data only","Institution or company
+University of Oxford","Speciality area
+Genomics and Rare Diseases",Neuropathic pain affects 6-8% of the population and current treatments are inadequate. There is a need to develop novel analgesics and better target existing therapies. This requires improved understanding of pathophysiological mechanisms in patients.
+1616638139-2812,https://bioresource.nihr.ac.uk/studies/?page=7#articles,von Wiilebrand factor - access to Gene Docs application,"Study code
+DAA012","Lead researcher
+Dr Reuben Bierings","Study type
+Data only","Institution or company
+Erasmus University Medical Center, Netherlands","Speciality area
+Genomics and Rare Diseases, Haematology",NA
+1616638141-2813,https://bioresource.nihr.ac.uk/studies/?page=7#articles,Primary Immunodeficieny,"Study code
+DAA009","Lead researcher
+Paul Lyons","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases","Primary immunodeficiency (PID) is characterised by recurrent and often life-threatening infections, autoimmunity and cancer, and it presents major diagnostic and therapeutic challenges. Although the most severe forms present in early childhood, the majority of patients present in adulthood, typically with no apparent family history and a variable clinical phenotype of widespread immune dysregulation. Consequently, in sporadic PID genetic diagnosis is difficult and the role of genetics is not well defined. We have addressed this by performing whole genome sequencing of a large cohort of PID patients. This analysis has identified new genes contributing to PID and deepened our understanding of the key pathways determining variation in human immune  responsiveness."
+1616638154-2819,https://bioresource.nihr.ac.uk/studies/?page=7#articles,Genetic Variation in Coagulation Factors and Risk of Haemorrhage,"Study code
+DAA002","Lead researcher
+Ms Erlinda Dedgjonaj","Study type
+Data only","Institution or company
+Imperial College London","Speciality area
+Genomics and Rare Diseases","The function of the coagulation system is to ameliorate blood loss (haemorrhage) by clotting when the integrity of a blood vessel wall has been breached. The formation of a blood clot depends on a cascade of interactions between numerous proteins in the blood to generate fibrin which stabilises the primary platelet plug. The concentrations of these proteins vary considerably between individuals and it has been hypothesised that the concentration of certain coagulation factors in the blood may be a significant determinant of the risk of bleeding or haemorrhage, including the risk of major haemorrhage during surgery and after trauma. Recent advances in molecular measuring technology have allowed the systematic measurement of concentrations of selected proteins in blood plasma, in thousand of participants in epidemiological cohorts. Genome-wide association studies have identified hundreds of alleles associated with concretions of proteins, many of which are coagulation factors (e.g. Sun et al 2018). We will use genetic data from the INTERVAL cohort to build models to predict variation in coagulation factor levels. We will apply these models to the NIHR rare disease sequencing cohort and determine whether the genetically predicted coagulation factor levels are are associated with bleeding phenotypes."
+1616638150-2817,https://bioresource.nihr.ac.uk/studies/?page=7#articles,Nanopore sequencing project,"Study code
+DAA005","Lead researcher
+Prof. Willem Ouwehand","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases, Haematology",NA
+1616638156-2820,https://bioresource.nihr.ac.uk/studies/?page=7#articles,COvid-19 PsychIatry and Neurological Genetics (COPING) study,"Study code
+NBR68","Lead researcher
+Professor Gerome Breen","Study type
+Participant re-contact","Institution or company
+King's College London, Mental Health BioResource","Speciality area
+Mental Health, Genomics and Rare Diseases, Neurological Disorders",COVID-19 study.
+1616638147-2816,https://bioresource.nihr.ac.uk/studies/?page=7#articles,Genetic Regulation of platelet GPVI Dimer Levels in Healthy Individuals,"Study code
+DAA006","Lead researcher
+Kate Downes","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Haematology, Genomics and Rare Diseases","The platelet collagen receptor, glycoprotein VI (GPVI), plays a critical role in platelet activation and clot formation leading to patients suffering from cardiovascular diseases including stroke.  Recent understanding of the active structure of the GPVI receptor and experimental studies suggest that this receptor is a potential new drug target to prevent adverse clotting."
+1616638143-2814,https://bioresource.nihr.ac.uk/studies/?page=7#articles,Contribution of polygenic scores to hematological traits and diseases,"Study code
+DAA008","Lead researcher
+Dragana Vuckovic","Study type
+Data only","Institution or company
+Wellcome Sanger Institute","Speciality area
+Genomics and Rare Diseases, Haematology","We have recently performed strongly statistically powered genotype-phenotype association studies and identified thousands of genetic variants involved in blood cell production. These variants together can explain a large amount of variability in blood cell composition among healthy individuals. However, it is unknown if and how they contribute to blood related diseases. We would like to use data from participants from the NIHR BioResource project for whom full blood count data are available to investigate whether a genetic predisposition to high or low blood cell counts may predict disease status in patients for whom no causal variants have been reported. Furthermore, we curated a list of new candidate variants that show statistic evidence of potential pathogenicity. We would like to check for the presence of these variants in the above patients, in order to validate the findings."
+1616638145-2815,https://bioresource.nihr.ac.uk/studies/?page=7#articles,Idiopathic Nephrotic Syndrome,"Study code
+DAA007","Lead researcher
+Amy Osborne","Study type
+Data only","Institution or company
+University of Bristol","Speciality area
+Kidney Disorders, Genomics and Rare Diseases","Idiopathic Nephrotic Syndrome (INS) is a very rare kidney condition that causes kidneys to leak a huge amount of protein into the urine. This may lead to kidney failure and require a transplant. Although rare, INS is one of the most difficult to manage kidney diseases in children and adults. This project aims to develop computational tools that will help to better understand this disease, improve diagnosis and treatment strategy."
+1616638133-2810,https://bioresource.nihr.ac.uk/studies/?page=8#articles,Whole Genome Sequencing and Analysis to identify new isease genes for hypertrophic cardiomyopathy,"Study code
+DAA014","Lead researcher
+Dr Ashley Pritchard","Study type
+Data only","Institution or company
+Oxford University Hospitals NHS Foundation Trust","Speciality area
+Cardiovascular Disease, Genomics and Rare Diseases",NA
+1616638120-2804,https://bioresource.nihr.ac.uk/studies/?page=8#articles,Paediatric Bone Marrow Failure Syndromes (Stem Cell and myeloid disorders),"Study code
+DAA032","Lead researcher
+Prof. Adam Mead","Study type
+Data only","Institution or company
+University of Oxford","Speciality area
+Genomics and Rare Diseases, Children and Young People",NA
+1616638130-2809,https://bioresource.nihr.ac.uk/studies/?page=8#articles,PMG (Primary Membranoproliferative glomerulonephritis and C3 Glomerulopathy),"Study code
+DAA015","Lead researcher
+John Armour","Study type
+Data only","Institution or company
+University of Nottingham","Speciality area
+Kidney Disorders, Genomics and Rare Diseases",We aim to find out if the number of copies and types of genes called Alpha Defensins has any influence on the risk of inflammatory kidney disease. We will do this by using genome sequencing data from people with and without kidney disease to read the sequence of these genes in people with and without kidney disease and see if there are any differences that suggest that Alpha Defensins play a role in the disease.
+1616638124-2806,https://bioresource.nihr.ac.uk/studies/?page=8#articles,"NDD, LHON - access Gene Docs application","Study code
+DAA019","Lead researcher
+Prof. Lucy Raymond","Study type
+Data only","Institution or company
+Cambridge University Hospitals NHS Foundation Trust","Speciality area
+Children and Young People, Neurological Disorders",NA
+1616638135-2811,https://bioresource.nihr.ac.uk/studies/?page=8#articles,NIHR BioResource access,"Study code
+DAA013","Lead researcher
+Chris Penkett","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases",NA
+1616638122-2805,https://bioresource.nihr.ac.uk/studies/?page=8#articles,Genetic architecture of blood cell cytometry phenotypes,"Study code
+DAA028","Lead researcher
+Parsa Akbari","Study type
+Data only","Institution or company
+University of Cambridge","Speciality area
+Genomics and Rare Diseases, Haematology",NA
+1616638128-2808,https://bioresource.nihr.ac.uk/studies/?page=8#articles,Steroid resistant nephrotic syndrome (SRNS) - access to Gene Docs application,"Study code
+DAA017","Lead researcher
+Dr Amy Osborne","Study type
+Data only","Institution or company
+University of Bristol","Speciality area
+Kidney Disorders",NA
+1616638126-2807,https://bioresource.nihr.ac.uk/studies/?page=8#articles,Access request to Gene Docs application,"Study code
+DAA018","Lead researcher
+Floor Heubel-Moenen","Study type
+Data only","Institution or company
+Maastricht University Medical Center+, Masstricht","Speciality area
+Genomics and Rare Diseases","Editor's note: ""Gene Docs"" is an application used by researchers analysing rare genetic variants at the University of Cambridge High Performance Computing Service."
+1616638118-2803,https://bioresource.nihr.ac.uk/studies/?page=8#articles,COVID19 pneumonitis,"Study code
+NBR73","Lead researcher
+Dr Charles Crawley","Study type
+Participant re-contact","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Respiratory Disorders",Coming soon
+1616638103-2797,https://bioresource.nihr.ac.uk/studies/?page=9#articles,Complement activation to predict Sars-CoV-2 outcome,"Study code
+NBR82","Lead researcher
+Dr Richard Unwin","Study type
+Samples and data","Institution or company
+University of Manchester","Speciality area
+Infection",coming soon
+1616638113-2802,https://bioresource.nihr.ac.uk/studies/?page=9#articles,impaCt of bioLogic therApy on saRs-cov-2 Infection and immuniTY CLARITY,"Study code
+NBR77","Lead researcher
+Dr Tariq Ahmad","Study type
+Participant re-contact","Institution or company
+Royal Devon and Exeter NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638105-2798,https://bioresource.nihr.ac.uk/studies/?page=9#articles,Healthcare Worker Case Control COVID-19 Questionnaire,"Study code
+NBR81","Lead researcher
+Dan Cooper","Study type
+Participant re-contact","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638107-2799,https://bioresource.nihr.ac.uk/studies/?page=9#articles,Healthcare Worker COVID follow up,"Study code
+NBR80","Lead researcher
+Dan Cooper","Study type
+Participant re-contact","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638096-2794,https://bioresource.nihr.ac.uk/studies/?page=9#articles,Post-COVID-19 surveillance: To establish T cell assays for assessing T cell responses and identify individual and immunological factors that account for different disease outcomes,"Study code
+NBR87","Lead researcher
+Dr Nyarie Sithole","Study type
+Samples and data","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638098-2795,https://bioresource.nihr.ac.uk/studies/?page=9#articles,Healthcare Worker T Cell Recall,"Study code
+NBR86","Lead researcher
+Dr James Thaventhiran","Study type
+Participant re-contact","Institution or company
+Cambridge University Hospital NHS Foundation Trust","Speciality area
+Infection",coming soon
+1616638111-2801,https://bioresource.nihr.ac.uk/studies/?page=9#articles,HICC: Humoral Immune Correlates for COVID19: Defining protective Ab responses and critical readouts for Clinical Trials of Vaccines and Therapeutics,"Study code
+NBR78","Lead researcher
+Dr Helen Baxendale","Study type
+Participant re-contact","Institution or company
+Royal Papworth NHS Foundation Trust","Speciality area
+Infection",Coming soon
+1616638100-2796,https://bioresource.nihr.ac.uk/studies/?page=9#articles,Determining risk for extravascular haemolysis in paroxysmal nocturnal haemoglobinuria patients treated with eculizumab,"Study code
+NBR84","Lead researcher
+Professor Claire Harris","Study type
+Participant re-contact","Institution or company
+Newcastle University","Speciality area
+Haematology, Infection",coming soon
+1616638109-2800,https://bioresource.nihr.ac.uk/studies/?page=9#articles,Defining the therapeutic potential of CD25 (IL2-R) blockade as a novel treatment for genetically stratified Crohn’s disease patients,"Study code
+NBR79","Lead researcher
+Professor Graham Lord","Study type
+Participant re-contact","Institution or company
+King's College London","Speciality area
+Gastroenterology",coming soon
