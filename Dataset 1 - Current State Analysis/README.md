@@ -18,7 +18,7 @@ South London and Maudsley NHS Foundation Trust, Royal College of General Practit
 The Renal Registry,  University Hospital Birmingham NHS Trust, Genomics England, University Hospitals of Leicester NHS Trust, Office of National Statistics (ONS), Data-Can - Health Data Research Hub, 
 Clinical Practice Research Datalink (CPRD), NHS Digitrials - Health Data Research Hub,  Cystic Fibrosis Trust Breathe - Health Data Research Hub Generation Scotland Pioneer - Health Data Research Hub, QResearch,  
 Gut Reaction - Health Data Research Hub, UK Biobank Insight - Health Data Research Hub, National Records of Scotland (NRScotland), UK Brain Bank Network, UKCRC Tissue Directory and Coordination Centre, Dementia Platform UK, NHS England, 
-NHSX, Imperial College Healthcare NHS Trust, Human Fertilisation and Embryology Authority (HFEA), ICNARC 
+NHSX, Imperial College Healthcare NHS Trust, Human Fertilisation and Embryology Authority (HFEA), ICNARC
 
 **Exclusions:**
 Clinical trials registers were excluded, as the scope of this analysis was limited to registers of approved data access requests, rather than the recruitment of participants to clinical trials.
@@ -28,7 +28,7 @@ The 53 data custodians included in this analysis is not an exhaustive list of al
 Although each data custodian's website was extensively reviewed for a data use register, there may well be a public record of approved data use requests that we were unable to locate. 
 
 **Scope:**
-The scope of this analysis covered the availability of the Data Use Register, content,  format and frequency of each Register, along with the ‘searchability’, ‘findability’ and accessibility of the registers, as defined below:
+The scope of this analysis covered the availability of the Data Use Register, content,  format and frequency of each Register, along with the ‘searchability’, ‘findability’ and 'downloadability' of the registers, as defined below:
 
 **Content:** the type of information included in the data use register, validated against 30 common fields that were developed through alignment to the Five Safes Framework 
 
