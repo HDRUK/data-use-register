@@ -40,7 +40,7 @@ The scope of this analysis covered the availability of the Data Use Register, co
 
 **Searchability:** Does the register have an in-built search function that allows users to find specific content?
 
-**Accessibility:** is all of the data within the data use register available for download?
+**Downloadability:** is all of the data within the data use register available for download?
 
 
 **Contents:**
