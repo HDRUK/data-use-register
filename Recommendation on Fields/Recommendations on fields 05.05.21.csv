@@ -1,0 +1,32 @@
+5 Safes,Field,Definition,Status
+Safe People,Organisation Name,The name of the legal entity that signs the contract to access the data,Highly Recommended
+,Funders/Sponsors/Collaborators,"The name of any funders, sponsors or collaborators involved in the project",Highly Recommended
+,Organisation Type,The type of organisation that has signed a contract to access the data (see glossary for pre-defined values) ,Recommended
+,Applicant Name  ,"The name of the principle applicant that has been authorised to use the data (in format First Name, Last Name) ",Recommended
+,Accredited Researcher Status,"The accreditation status of a researcher, as defined by the ONS Research Code of Practice and Accreditation criteria (see glossary for pre-defined values)",Optional
+,Publisher Name,The name of the organisation responsible for running or supporting the data access request process,Optional
+,Organisation ID,A unique identifier for an organisation that is preferably an industry used standard such as Grid.ac (see https://www.grid.ac/institutes),Optional
+,Applicant ID,A unique identifier for the applicant that is preferably an industry used standard such as Grid.ac (see https://www.grid.ac),Optional
+Safe Projects,Project Title,The title of the project/research study/request that the applicant is investigating through the use of health data,Highly Recommended
+,Public Benefit Statement,"A description in plain English of the anticipated outcomes, or impact of project on the general public",Highly Recommended
+,Approval Date,The date the application was approved in ISO 8601 format,Highly Recommended
+,Lay Summary,"A concise and clear description of the project, (e.g. as required by URKI in funding applications). It should outline the problem, objectives and expected outcomes in language that is understandable to the general public",Recommended
+,Legal Basis for Provision of Data,"The legal basis that allows the applicant to lawfully process personally identifiable data, as specified by NHS Digital (see glossary for definition of pre-determined values)",Recommended
+,Common Law Duty of Confidentiality,"In the application of the Common Law Duty of Confidentiality there are 2 options that enable a release: Consent (Reasonable Expectation)
+or Section 251 NHS Act 2006",Recommended
+,Release Date,The date the data was released in ISO 8601 format,Recommended
+,Project ID,"A unique identifier for the project that is preferably an industry used standard, such as IRAS ID. However for non research projects, a unique reference number created by the data custodian on receipt of the application is sufficient",Optional
+,Technical Summary,"A summary of the proposed research, in a manner that is suitable for a specialist reader ",Optional
+,Other Approval Committees ,Reference to other decision-making bodies that the project has already been authorised by (see glossary for list of approval committees applicable),Optional
+,Project Start Date,The date the project is scheduled to start or actual start date in ISO 8601 format,Optional
+,Project End Date,The date the project is scheduled to finish or actual end date in ISO 8601 format,Optional
+Safe Data,Dataset(s) Name,"The name of the dataset(s) being accessed, as determined by the data controller",Highly Recommended
+,Data Sensitivity Level,"The level of identifiability of the data being accessed, as defined by Understanding Patient Data (see glossary for definition of values)",Highly Recommended
+,Request Category Type,"This categorises the 'purpose of the share' (i.e. research, policy development, etc)",Recommended
+,National Data Opt-Out Applied?,Specifies whether the preference for people to opt-out of their confidential patient information being used for secondary use has been applied to the data prior to release,Recommended
+,Request Frequency,Determines whether this a 'one-off' request or a recurring dataset to be provided over a specific time period,Recommended
+,Description of how the data will be used,Details of how the data requested will be used (including how they will analyse the data or link it to other datasets),Recommended
+,Description of Confidential Data Used,A description of the specific patient identifiable fields that have been included in the dataset(s) being accessed,Optional
+Safe Setting,Trusted Research Environment (TRE) or other specified location,"These are highly secure spaces for researchers to access sensitive data (also known as Data Safe Havens). A list of available TREs will be provided (see glossary. If another location has been used, it will need to be specified ",Recommended
+,How has data been processed to enhance privacy?,Description of the tools or software used to reduce level of identifiable data being shared ,Optional
+Safe Outputs,Link to Research Outputs,"A link to any academic or non-academic research outputs, as they become available",Optional
