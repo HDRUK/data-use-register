@@ -1,6 +1,6 @@
 ![GitHub Logo](https://zenodo.org/badge/351862677.svg)
 
-#  Data Access Register
+#  Data Use Register
 
 This repository is primarily used for Data use register analysis.
 
